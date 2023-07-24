@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rohanasurvase
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analytics. 
+📊 Data Analyst | 📚 Lifelong Learner
 
-<!---
-rohanasurvase/rohanasurvase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I am Rohana Survase, a dedicated data analysis student driven by a passion for deriving insights and identifying intricate patterns within intricate datasets.
